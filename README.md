@@ -3,7 +3,10 @@ Hello there!
 My name is Daniel Joy, I'm a first-year Master's student at University of Tennessee Knoxville interested in cybersecurity, machine learning, and renewable energy.
 
 Featured Projects:
-| [IoT Privacy Analysis](https://github.com/username/iot-privacy) | Research-based project on IoT data collection & public perception | Python, Data Analysis |
+- [IoT Privacy Analysis](https://github.com/DanielJoy6/iot-privacy) - Research-based project on IoT data collection & public perception. Used Python, Data Analysis, IoT Devices
+* Used Python, Data Analysis, IoT Devices
+- [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents
+- [Melting Point Prediction](https://github.com/DanielJoy6/Sushi-go-bot) - Organic molecule melting point prediction using gradient boosting & neural networks
 
 
 
