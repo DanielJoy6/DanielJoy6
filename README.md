@@ -7,7 +7,7 @@ Some of my projects:
   * Topics: Python, Data Analysis, IoT Devices
 - [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents
   * Topics: Q-Learning, Python, Reinforment Learning
-- [Melting Point Prediction](https://github.com/DanielJoy6/Sushi-go-bot) - Organic molecule melting point prediction using gradient boosting & neural networks
+- [Melting Point Prediction](https://github.com/DanielJoy6/Melting-point) - Organic molecule melting point prediction using gradient boosting & neural networks
   * Topics: Neural Networks, Machine Learning, LightGBM, XGBoost
 
 Contact Information:
