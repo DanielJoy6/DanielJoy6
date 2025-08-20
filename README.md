@@ -3,6 +3,7 @@ Hello there!
 My name is Daniel Joy, I'm a first-year Master's student at University of Tennessee Knoxville interested in cybersecurity, machine learning, and renewable energy.
 
 Featured Projects:
+| [IoT Privacy Analysis](https://github.com/username/iot-privacy) | Research-based project on IoT data collection & public perception | Python, Data Analysis |
 
 
 
