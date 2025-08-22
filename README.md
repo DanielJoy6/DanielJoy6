@@ -8,7 +8,7 @@ Some of my projects:
 - [Roblox Cashier Bot](https://github.com/DanielJoy6/RobloxCashier) - Bot using simulated mouse clicks and Convolution Neural networks to act as a cashier in a Roblox game
   * Topics: Convolutional Neural Networks, Machine Learning, Python Libraries: PyAutoGui, DirectInput, Keras, Tensorflow
 - [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents
-  * Topics: Q-Learning, Python, Reinforment Learning
+  * Topics: Q-Learning, Python, Reinforcement Learning
 - [Melting Point Prediction](https://github.com/DanielJoy6/Melting-point) - Organic molecule melting point prediction using gradient boosting & neural networks
   * Topics: Neural Networks, Machine Learning, LightGBM, XGBoost
 
