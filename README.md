@@ -3,8 +3,10 @@ Hello there!
 My name is Daniel Joy, I'm a first-year Master's student at University of Tennessee Knoxville interested in cybersecurity, machine learning, and renewable energy.
 
 Some of my projects:
-- [IoT Privacy Analysis](https://github.com/DanielJoy6/iot-privacy) - Research-based project on IoT data collection & public perception.
-  * Topics: Python, Data Analysis, IoT Devices
+- [Tic-Tac-Toe Q-learning Agent](https://github.com/DanielJoy6/TicTacToe-Bot) - Q-learning reinforcement agent that self-plays and learns how to play Tic-Tac-Toe
+  * Topics: Q-table, Reinforcement Learning, Self-Play, Machine Learning
+- [Roblox Cashier Bot](https://github.com/DanielJoy6/RobloxCashier) - Bot using simulated mouse clicks and Convolution Neural networks to act as a cashier in a Roblox game
+  * Topics: Convolutional Neural Networks, Machine Learning, Python Libraries: PyAutoGui, DirectInput, Keras, Tensorflow
 - [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents
   * Topics: Q-Learning, Python, Reinforment Learning
 - [Melting Point Prediction](https://github.com/DanielJoy6/Melting-point) - Organic molecule melting point prediction using gradient boosting & neural networks
