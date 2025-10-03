@@ -12,8 +12,9 @@ My name is Daniel Joy, I'm a first-year Master's student at University of Tennes
 - [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents. I can thankfully usually still beat it in a 1v1
   * Topics: Q-Learning, Python, Reinforcement Learning
 
-## Kaggle Competitions
+## Online Competitions
 - [Kaggle](https://github.com/DanielJoy6/Kaggle-Competitions) - Here is my notebooks and results for some competitions over on Kaggle.
+- [Kattis](https://open.kattis.com/users/bananahead23) - My kattis profile. I've solved ~250 problems and am ranked 3rd in Tennessee.
 
 Contact Information:
 - **Email**: danieljoy2345@gmail.com
