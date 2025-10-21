@@ -14,7 +14,7 @@ My name is Daniel Joy, I'm a first-year Master's student at University of Tennes
 
 ## Online Competitions
 - [Kaggle](https://github.com/DanielJoy6/Kaggle-Competitions) - Here is my notebooks and results for some competitions over on Kaggle.
-- [Kattis](https://open.kattis.com/users/bananahead23) - My kattis profile. I've solved ~250 problems and am ranked 3rd in Tennessee.
+- [Kattis](https://open.kattis.com/users/bananahead23) - My kattis profile. I've solved ~260 problems and am ranked 2nd in Tennessee.
 
 Contact Information:
 - **Email**: danieljoy2345@gmail.com
