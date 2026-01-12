@@ -8,7 +8,7 @@ My name is Daniel Joy, I'm a first-year Master's student at University of Tennes
 - [Roblox Cashier Bot](https://github.com/DanielJoy6/RobloxCashier) - Bot using simulated mouse clicks and Convolution Neural networks to act as a cashier in a Roblox game
   * Topics: Convolutional Neural Networks, Machine Learning, Python Libraries: PyAutoGui, DirectInput, Keras, Tensorflow
 - [Grocery Store Website Scraper](https://github.com/DanielJoy6/Grocery-Store-Prices) - A program to automatically search Walmart & Kroger websites for given items, store prices, sort by lowest price/ounce, and export to CSV for analysis.
-  * Topics: PyAutoGUI, BeautifulSoup, HTML Parsing, Pandas
+  * Topics: PyAutoGUI, BeautifulSoup, HTML Parsing, Pandas, StreamLit
 - [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents. I can thankfully usually still beat it in a 1v1
   * Topics: Q-Learning, Python, Reinforcement Learning
 
