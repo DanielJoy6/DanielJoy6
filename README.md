@@ -11,13 +11,15 @@ My name is Daniel Joy, I'm a first-year Master's student at University of Tennes
   * Topics: PyAutoGUI, BeautifulSoup, HTML Parsing, Pandas, StreamLit
 - [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents. I can thankfully usually still beat it in a 1v1
   * Topics: Q-Learning, Python, Reinforcement Learning
+- [HandCraft](https://github.com/DanielJoy6/Handcraft) - A framework for playing Minecraft without keyword/mouse. Uses Convolutional neural networks to detect hand position, then passes those through pynput into Minecraft movement commands.
+  * Topics: Convolutional Neural Networks, pynput, Keras, Mediapipe
 
 ## Online Competitions
-- [Kaggle](https://github.com/DanielJoy6/Kaggle-Competitions) - Here is my notebooks and results for some competitions over on Kaggle.
-- [Kattis](https://open.kattis.com/users/bananahead23) - My kattis profile. I've solved ~260 problems and am ranked 3rd in Tennessee.
+- [Kattis](https://open.kattis.com/users/bananahead23) - My kattis profile. I've solved ~260 problems and am ranked 3rd in Tennessee, ~1400 in the world.
+- [Kaggle](https://github.com/DanielJoy6/Kaggle-Competitions) - Here is my notebooks and results for some competitions over on Kaggle. I do not use this often.
 
 Contact Information:
-- **Email**: danieljoy2345@gmail.com
+- **Email**: danieljoy2345@gmail.com - Feel free to email me!
 - **LinkedIn**: [linkedin.com/in/daniel-joy6](https://linkedin.com/in/daniel-joy6)  
 - **Personal Website**: [sites.google.com/view/daniel-joy](https://sites.google.com/view/daniel-joy)  
 
