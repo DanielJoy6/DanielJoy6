@@ -13,9 +13,11 @@ My name is Daniel Joy, I'm a first-year Master's student at University of Tennes
   * Topics: Q-Learning, Python, Reinforcement Learning
 - [HandCraft](https://github.com/DanielJoy6/Handcraft) - A framework for playing Minecraft without keyword/mouse. Uses Convolutional neural networks to detect hand position, then passes those through pynput into Minecraft movement commands.
   * Topics: Convolutional Neural Networks, pynput, Keras, Mediapipe
+- [SolarAngleCalculation](https://github.com/DanielJoy6/SolarAngleCalculation) - A collaboration with my architecture friend Johnny. Calculates how long your windows & shades need to be, based on what locations and times the user enters.
+  * Topics: Streamlit, Numpy, Pandas
 
 ## Online Competitions
-- [Kattis](https://open.kattis.com/users/bananahead23) - My kattis profile. I've solved ~260 problems and am ranked 3rd in Tennessee, ~1400 in the world.
+- [Kattis](https://open.kattis.com/users/bananahead23) - My kattis profile. I've solved ~260 problems and am ranked 2nd in Tennessee, ~1300 in the world.
 - [Kaggle](https://github.com/DanielJoy6/Kaggle-Competitions) - Here is my notebooks and results for some competitions over on Kaggle. I do not use this often.
 
 Contact Information:
