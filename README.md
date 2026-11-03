@@ -1,18 +1,18 @@
 Hello there! 
 
-My name is Daniel Joy, I'm a first-year Master's student at University of Tennessee Knoxville interested in cybersecurity, machine learning, and renewable energy.
+My name is Daniel Joy, I'm a second-year Master's student at University of Tennessee Knoxville interested in reinforcement learning models, cybersecurity, and renewable energy.
 
 ## Projects
-- [Tic-Tac-Toe Q-learning Agent](https://github.com/DanielJoy6/TicTacToe-Bot) - Q-learning reinforcement agent that self-plays and learns how to play Tic-Tac-Toe
-  * Topics: Q-table, Reinforcement Learning, Self-Play, Machine Learning
-- [Roblox Cashier Bot](https://github.com/DanielJoy6/RobloxCashier) - Bot using simulated mouse clicks and Convolution Neural networks to act as a cashier in a Roblox game
-  * Topics: Convolutional Neural Networks, Machine Learning, Python Libraries: PyAutoGui, DirectInput, Keras, Tensorflow
-- [Grocery Store Website Scraper](https://github.com/DanielJoy6/Grocery-Store-Prices) - A program to automatically search Walmart & Kroger websites for given items, store prices, sort by lowest price/ounce, and export to CSV for analysis.
-  * Topics: PyAutoGUI, BeautifulSoup, HTML Parsing, Pandas, StreamLit
-- [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents. I can thankfully usually still beat it in a 1v1
-  * Topics: Q-Learning, Python, Reinforcement Learning
 - [HandCraft](https://github.com/DanielJoy6/Handcraft) - A framework for playing Minecraft without keyword/mouse. Uses Convolutional neural networks to detect hand position, then passes those through pynput into Minecraft movement commands.
   * Topics: Convolutional Neural Networks, pynput, Keras, Mediapipe
+- [Tic-Tac-Toe Q-learning Agent](https://github.com/DanielJoy6/TicTacToe-Bot) - Q-learning reinforcement agent that self-plays and learns how to play Tic-Tac-Toe
+  * Topics: Q-table, Reinforcement Learning, Self-Play, Machine Learning
+- [Q-learning Sushi-Go Agent](https://github.com/DanielJoy6/Sushi-go-bot) - A reinforcement self-learning bot that learned to play the card game Sushi-Go optimally. Reached 70% win rate against simple opponents. I can thankfully usually still beat it in a 1v1
+  * Topics: Q-Learning, Self-Play, Reinforcement Learning
+- [Grocery Store Website Scraper](https://github.com/DanielJoy6/Grocery-Store-Prices) - A program to automatically search Walmart & Kroger websites for given items, store prices, sort by lowest price/ounce, and export to CSV for analysis.
+  * Topics: PyAutoGUI, BeautifulSoup, HTML Parsing, Pandas, StreamLit
+- [Roblox Cashier Bot](https://github.com/DanielJoy6/RobloxCashier) - Bot using simulated mouse clicks and Convolution Neural networks to act as a cashier in a Roblox game
+  * Topics: Convolutional Neural Networks, Machine Learning, Python Libraries: PyAutoGui, DirectInput, Keras, Tensorflow
 - [SolarAngleCalculation](https://github.com/DanielJoy6/SolarAngleCalculation) - A collaboration with my architecture friend Johnny. Calculates how long your windows & shades need to be, based on what locations and times the user enters.
   * Topics: Streamlit, Numpy, Pandas
 
@@ -23,7 +23,6 @@ My name is Daniel Joy, I'm a first-year Master's student at University of Tennes
 Contact Information:
 - **Email**: danieljoy2345@gmail.com - Feel free to email me!
 - **LinkedIn**: [linkedin.com/in/daniel-joy6](https://linkedin.com/in/daniel-joy6)  
-- **Personal Website**: [sites.google.com/view/daniel-joy](https://sites.google.com/view/daniel-joy)  
 
 
 
